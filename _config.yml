@@ -7,4 +7,5 @@ plugins:
   - jekyll-seo-tag
 author:
   name: Ulas
+  avatar: "/assets/images/ulasprofile.png"
   bio: Cybersecurity student with a background in International Relations.
