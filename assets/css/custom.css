@@ -1,6 +1,7 @@
-.avatar {
+.author__avatar {
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
+  max-width: 120px; /* Optional: control size */
 }
