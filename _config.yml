@@ -1,4 +1,3 @@
-minimal_mistakes_skin: "default" # or any other skin you're using
 custom_css:
   - /assets/css/custom.css
 
