@@ -9,3 +9,8 @@ author:
   name: Ulas
   avatar: "/assets/images/ulasprofile.png"
   bio: Cybersecurity student with a background in International Relations.
+
+*CSS*
+minimal_mistakes_skin: "default" # or any other skin you're using
+custom_css:
+  - /assets/css/custom.css
