@@ -1,3 +1,7 @@
+minimal_mistakes_skin: "default" # or any other skin you're using
+custom_css:
+  - /assets/css/custom.css
+
 title: Cyber Blog
 description: Exploring the intersection of cybersecurity, geopolitics, and digital strategy.
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -10,6 +14,3 @@ author:
   avatar: "/assets/images/ulasprofile.png"
   bio: Cybersecurity student with a background in International Relations.
 
-minimal_mistakes_skin: "default" # or any other skin you're using
-custom_css:
-  - /assets/css/custom.css
