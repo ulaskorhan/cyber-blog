@@ -1,0 +1,6 @@
+title: Ulas' Cyber Blog
+description: Exploring the intersection of cybersecurity, geopolitics, and digital strategy.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
