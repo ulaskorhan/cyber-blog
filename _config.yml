@@ -1,7 +1,7 @@
 custom_css:
   - /assets/css/custom.css
 
-title: Ulas's Cyber Blog
+title: Ulas' Cyber Blog
 description: Exploring the intersection of cybersecurity, geopolitics, and digital strategy.
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
@@ -11,5 +11,5 @@ plugins:
 author:
   name: Info
   avatar: "/assets/images/AI4.png"
-  bio: I’m a cybersecurity student with a master degree in international relations, trying to make sense of a world where hackers wear suits and diplomacy happens over fiber optics. Expect serious topics, strategic takes, and the occasional meme-worthy metaphor.
+  bio: I’m a cybersecurity student with a masters degree in international relations, trying to make sense of a world where hackers wear suits and diplomacy happens over fiber optics. Expect serious topics, strategic takes, and the occasional meme-worthy metaphor.
 
