@@ -1,7 +1,7 @@
 ---
 title: "How I am becoming an expert in Cybersecurity (and still can't explain it to my grandparents)"
 layout: single
-date: 2025-07-04
+date: 2025-07-05
 author_profile: true
 read_time: true
 excerpt: "A look at my journey from IT basics to cyber forensics — with a few firewalls, Linux commands, and legal headaches along the way."
