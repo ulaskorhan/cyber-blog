@@ -1,5 +1,5 @@
 ---
-title: "How I am becoming expert in Cybersecurity (and still can't explain it to my grandparents)"
+title: "How I am becoming an expert in Cybersecurity (and still can't explain it to my grandparents)"
 layout: single
 author_profile: true
 read_time: true
