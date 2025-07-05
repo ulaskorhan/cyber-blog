@@ -1,7 +1,7 @@
 custom_css:
   - /assets/css/custom.css
 
-title: Cyber Blog
+title: Ulas's Cyber Blog
 description: Exploring the intersection of cybersecurity, geopolitics, and digital strategy.
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 author:
-  name: Ulas
+  name: 
   avatar: "/assets/images/AI3.png"
   bio: >-
   I’m a cybersecurity student with a background in international relations, trying to make sense of a world where hackers wear suits and diplomacy happens over fiber optics. Expect serious topics, strategic takes, and the occasional meme-worthy metaphor.
