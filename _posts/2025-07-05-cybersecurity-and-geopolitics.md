@@ -7,7 +7,7 @@ excerpt: "A look at my journey from IT basics to cyber forensics — with a few 
 tags: [cybersecurity, learning, humor, student-life]
 ---
 
-These are th steps I followed in order to gain my dream expertise:
+These are the steps I followed in order to gain my dream expertise:
 
 Step 1: IT Foundations  
 I started with the basics — the “alphabet” of tech. Cables, ports, protocols. I learned that turning it off and on again is not just a meme — it’s a sacred ritual.
